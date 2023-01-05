@@ -1,85 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Ananke</title>
-    <link>https://gohugo-theme-ananke.pages.dev/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Ananke</description>
+    <title>Chencan Blog</title>
+    <link>https://zhaohuabing.com/</link>
+    <description>Recent content on Chencan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      <title>阿尔贝·加缪读书笔记</title>
+      <link>https://zhaohuabing.com/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+      <guid>https://zhaohuabing.com/post/readme/</guid>
+      <description>加缪在20世纪顶住了历史潮流，独自继承着源远流长的醒世文学，他怀着顽强、严格、纯洁、肃穆、热情的人道主义，向当今时代的种种粗俗丑陋发起了胜负</description>
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <title>旅行日记</title>
+      <link>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <guid>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>新加坡是一个城市国家，原意为狮城。据马来史籍记载，1150年左右，苏门答腊的室利佛逝王国王子（般＋木）那乘船到达此岛，看见一头黑兽，当地人告</description>
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>旅游随记</title>
+      <link>https://zhaohuabing.com/2018/06/02/istio08/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <guid>https://zhaohuabing.com/2018/06/02/istio08/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;2016年7月17日，第40届世界遗产大会中国湖北神农架列入世界遗产名录。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <title>旅游随记</title>
+      <link>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+      <guid>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</guid>
+      <description>这次旅行从湖南长沙出发，一路向湘西前进。从长沙一路往西，逐渐进入湘西土家族苗族自治州。除了体会张家界的自然风光，也体会了湘西地区独特的少数民</description>
     </item>
     
     <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <title>永远的斯宾诺莎</title>
+      <link>https://zhaohuabing.com/2018/05/23/external_system_auth/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <guid>https://zhaohuabing.com/2018/05/23/external_system_auth/</guid>
+      <description>天下唯庸人无咎无誉 梁启超作为晚生，在给李鸿章写的传记的绪论中如此开篇立论：天下唯庸人无咎无誉。举天下人而恶之，斯可谓非常之奸雄矣乎。举天下人</description>
     </item>
     
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>卢凌风个人向|《少年行》新丰美酒斗十千 咸阳游侠多少年</title>
+      <link>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <guid>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</guid>
+      <description>新丰美酒斗十千，咸阳游侠多少年。 相逢意气为君饮，系马高楼垂柳边。 出身仕汉羽林郎，初随骠骑战渔阳。 孰知不向边庭苦，纵死犹闻侠骨香。 一身能擘两雕</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <title>EXO十周年|“所以生命啊，它苦涩如歌”</title>
+      <link>https://zhaohuabing.com/2018/05/21/algolia-integration-with-jekyll/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/05/21/algolia-integration-with-jekyll/</guid>
+      <description>因为享受着它的灿烂 因为忍受着它的腐烂 你说别爱啊 又依依不舍 所以生命啊 它苦涩如歌</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <guid>https://zhaohuabing.com/about/</guid>
+      <description>About Me Hi,I&amp;rsquo;m Jie Chencan, I&amp;rsquo;m from Quzhou, Zhejiang. I&amp;rsquo;m currently studying in Soochow University, majoring in information resources management. I usually like reading and listening to music, and I also like to record my life~</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <title></title>
+      <link>https://zhaohuabing.com/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required. Message </description>
+      <guid>https://zhaohuabing.com/notes/</guid>
+      <description>C# 语言学习笔记 bootstrap菜鸟教程</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/search/placeholder/</guid>
+      <description>Search config 搜索配置 [params.search] enable = true # type of search engine [&amp;ldquo;lunr&amp;rdquo;, &amp;ldquo;algolia&amp;rdquo;] # 搜索引擎的类型 [&amp;ldquo;lunr&amp;rdquo;, &amp;ldquo;algolia&amp;rdquo;] type = &amp;ldquo;algolia&amp;rdquo; # max index length of the chunked content # 文章内容最长索引长度 contentLength = 4000 # placeholder of the search bar # 搜索框的占位提示语 placeholder =</description>
+    </item>
+    
+    <item>
+      <title>我的档案</title>
+      <link>https://zhaohuabing.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/archive/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/sitemap.xml</loc>
-    
-      <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://gohugo-theme-ananke.pages.dev/fr/sitemap.xml</loc>
-    
-      <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zhaohuabing.com/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/06/02/istio08/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/05/23/external_system_auth/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</loc>
+    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/2018/05/21/algolia-integration-with-jekyll/</loc>
+    <lastmod>2018-05-21T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaohuabing.com/about/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/notes/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/search/placeholder/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/categories/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/search/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/tags/</loc>
+  </url><url>
+    <loc>https://zhaohuabing.com/archive/</loc>
+  </url>
+</urlset>
