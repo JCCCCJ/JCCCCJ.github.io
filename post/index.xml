@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chencan Blog</title>
+    <link>https://zhaohuabing.com/post/</link>
+    <description>Recent content in Posts on Chencan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿尔贝·加缪读书笔记</title>
+      <link>https://zhaohuabing.com/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/post/readme/</guid>
+      <description>加缪在20世纪顶住了历史潮流，独自继承着源远流长的醒世文学，他怀着顽强、严格、纯洁、肃穆、热情的人道主义，向当今时代的种种粗俗丑陋发起了胜负</description>
+    </item>
+    
+    <item>
+      <title>旅行日记</title>
+      <link>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>新加坡是一个城市国家，原意为狮城。据马来史籍记载，1150年左右，苏门答腊的室利佛逝王国王子（般＋木）那乘船到达此岛，看见一头黑兽，当地人告</description>
+    </item>
+    
+    <item>
+      <title>旅游随记</title>
+      <link>https://zhaohuabing.com/2018/06/02/istio08/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/06/02/istio08/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;2016年7月17日，第40届世界遗产大会中国湖北神农架列入世界遗产名录。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>旅游随记</title>
+      <link>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</guid>
+      <description>这次旅行从湖南长沙出发，一路向湘西前进。从长沙一路往西，逐渐进入湘西土家族苗族自治州。除了体会张家界的自然风光，也体会了湘西地区独特的少数民</description>
+    </item>
+    
+    <item>
+      <title>永远的斯宾诺莎</title>
+      <link>https://zhaohuabing.com/2018/05/23/external_system_auth/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/05/23/external_system_auth/</guid>
+      <description>天下唯庸人无咎无誉 梁启超作为晚生，在给李鸿章写的传记的绪论中如此开篇立论：天下唯庸人无咎无誉。举天下人而恶之，斯可谓非常之奸雄矣乎。举天下人</description>
+    </item>
+    
+    <item>
+      <title>卢凌风个人向|《少年行》新丰美酒斗十千 咸阳游侠多少年</title>
+      <link>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</guid>
+      <description>新丰美酒斗十千，咸阳游侠多少年。 相逢意气为君饮，系马高楼垂柳边。 出身仕汉羽林郎，初随骠骑战渔阳。 孰知不向边庭苦，纵死犹闻侠骨香。 一身能擘两雕</description>
+    </item>
+    
+    <item>
+      <title>EXO十周年|“所以生命啊，它苦涩如歌”</title>
+      <link>https://zhaohuabing.com/2018/05/21/algolia-integration-with-jekyll/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2018/05/21/algolia-integration-with-jekyll/</guid>
+      <description>因为享受着它的灿烂 因为忍受着它的腐烂 你说别爱啊 又依依不舍 所以生命啊 它苦涩如歌</description>
+    </item>
+    
+  </channel>
+</rss>
